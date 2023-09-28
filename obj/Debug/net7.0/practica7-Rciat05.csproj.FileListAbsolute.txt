@@ -1,0 +1,15 @@
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\obj\Debug\net7.0\practica7-Rciat05.csproj.AssemblyReference.cache
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\obj\Debug\net7.0\practica7-Rciat05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\obj\Debug\net7.0\practica7-Rciat05.AssemblyInfoInputs.cache
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\obj\Debug\net7.0\practica7-Rciat05.AssemblyInfo.cs
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\obj\Debug\net7.0\practica7-Rciat05.csproj.CoreCompileInputs.cache
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\bin\Debug\net7.0\practica7-Rciat05.exe
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\bin\Debug\net7.0\practica7-Rciat05.deps.json
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\bin\Debug\net7.0\practica7-Rciat05.runtimeconfig.json
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\bin\Debug\net7.0\practica7-Rciat05.dll
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\bin\Debug\net7.0\practica7-Rciat05.pdb
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\obj\Debug\net7.0\practica7-Rciat05.dll
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\obj\Debug\net7.0\refint\practica7-Rciat05.dll
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\obj\Debug\net7.0\practica7-Rciat05.pdb
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\obj\Debug\net7.0\practica7-Rciat05.genruntimeconfig.cache
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\repositorio_practicas\practica 7\practica7-Rciat05\obj\Debug\net7.0\ref\practica7-Rciat05.dll
